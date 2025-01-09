@@ -52,11 +52,3 @@ Soy un apasionado aprendiz autodidacta de programación con un enfoque particula
 3. **Desarrollo Web**: Creando una pequeña aplicación web con Python y Flask.
 
 ¡Mucho más por venir! 🚀
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/f8/82/c3/f882c315928cce14740608a0f62be28b.jpg" width="500" />
-</p>
-
-¡Gracias por visitar mi perfil! 🎉
